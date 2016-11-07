@@ -1,0 +1,2 @@
+# generatorSqlmapCustom
+Myabtis reverse engineering
